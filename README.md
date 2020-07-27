@@ -1,2 +1,2 @@
 # First-Repo
-Learning
+Learning exciting stuff!
